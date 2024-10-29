@@ -1,6 +1,6 @@
 ## Hello World! 👋🏼 Welcome to my Github
 
-### My name is Kevin Guevara, I decided to learn programming at the end of the year 2020
+### My name is Kevin Guevara
 
 
  ### :bar_chart: Technologies that I use frequently: 
@@ -9,9 +9,10 @@
  &nbsp;&nbsp;[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/KevinG3511/)](https://github.com/KevinG3511/)
  &nbsp;&nbsp;[![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)](https://github.com/KevinG3511/)
  &nbsp;&nbsp;[![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&link=https://github.com/KevinG3511/)](https://github.com/KevinG3511/)
-&nbsp;&nbsp;[![NextJs](https://img.shields.io/badge/-NextJS-black?style=flat-square&logo=NextJS&link=https://github.com/KevinG3511/)](https://github.com/KevinG3511/)
+&nbsp;&nbsp;[![NextJs](https://img.shields.io/badge/-NextJS-black?style=flat-square&logo=nextdotjs&link=https://github.com/KevinG3511/)](https://github.com/KevinG3511/)
 &nbsp;&nbsp;[![FastApi](https://img.shields.io/badge/-FastApi-black?style=flat-square&logo=FastApi&link=https://github.com/KevinG3511/)](https://github.com/KevinG3511/)
 &nbsp;&nbsp;[![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=Flask&link=https://github.com/KevinG3511/)](https://github.com/KevinG3511/)
+&nbsp;&nbsp;[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql&link=https://github.com/KevinG3511/)](https://github.com/KevinG3511/)
  ### :bar_chart: Utils that I use : 
  [![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/KevinG3511/)](https://github.com/KevinG3511/)
  &nbsp;&nbsp;[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/KevinG3511/)](https://github.com/KevinG3511/)
